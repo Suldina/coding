@@ -1,4 +1,4 @@
 package com.company;
 
-public class LollyPop extends SweetPresent {
+public class LollyPop extends Sweeties {
 }
